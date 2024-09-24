@@ -2,6 +2,7 @@ package com.edubridge.myappone.model;
 
 public class employee {
 		private int employeeId;
+	private String email
 		private String employeeName;
 		public int getEmployeeId() {
 			return employeeId;
